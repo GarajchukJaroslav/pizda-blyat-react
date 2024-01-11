@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  text-align: center;
+  display: flex;
+  background-image: url('https://flomaster.top/o/uploads/posts/2023-10/1698103300_flomaster-top-p-les-v-srednevekove-narisovannie-maslom-vko-2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  height: 100vh;
+}

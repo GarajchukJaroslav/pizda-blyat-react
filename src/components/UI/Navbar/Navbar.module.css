@@ -1,0 +1,26 @@
+.navbar{
+    width: 7vw;
+    height: 100vh;
+    background: yellow;
+    padding: 10px 5px 10px 5px;
+}
+
+.navbarTitle{
+    margin-bottom: 25px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbarItem {
+    padding: 5px;
+    background: yellowgreen;
+    list-style: none;
+    margin-bottom: 5px;
+    height: calc(7vw - 10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
